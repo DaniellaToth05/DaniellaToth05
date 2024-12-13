@@ -38,7 +38,5 @@
 ---
 
 <h3 align="left">
-  <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1002&color=FFFFFF&vCenter=true&width=435&lines=Thank+you+for+visiting!" alt="Typing SVG" /></a>
-  </a>
+  Thank you for visiting!
 </h3>
