@@ -4,19 +4,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hey%2C+I'm+Daniella!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="left">Second-Year Software Engineering Student 💻</h3>
+<h3 align="left">Second year Software Engineering student at the University of Guelph! 💻🌱</h3>
 
 <br/>
 
 <div align="left">
  
- 🔭 I’m currently looking for **a software engineering co-op** for **summer 2025!**
+ I am passionate about technology and problem-solving, and I'm excited to develop my skills in software engineering.
 
- 🎓 **Second-year Software Engineering Student** at the University of Guelph
-
- 📖 I’m currently learning **Java, Python, C, and Web Development**
-
- 💡 I’m passionate about solving problems, building projects, and collaborating with others!
+ I am eager to gain practical experience through internships/co-op opportunities and collaborative projects, with the goal of 
+ contributing to innovative software solutions that improve lives and drive technological advancement!
  
 </div>
 
@@ -29,19 +26,8 @@
 </div>
 
 ---
-## 🤝 **Reach Out!**
-<div align="left"> 
-  <a href="mailto:daniellatoth@me.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniella-toth-x03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
 
----
-
-## ⚡ **GitHub Stats**
+## 🏆 **GitHub Stats**
 
 <div align="left">
   <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=DaniellaToth05&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
