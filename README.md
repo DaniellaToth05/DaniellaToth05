@@ -30,9 +30,9 @@
 ## 🏆 **GitHub Stats**
 
 <div align="left">
-  <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=DaniellaToth05&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaToth05&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-  <img width=288 src="https://github-readme-stats.vercel.app/api?username=DaniellaToth05&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=DaniellaToth05&count_private=true&theme=merko&border_radius=10" alt="streak stats"/>
+  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaToth05&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="top langs" />
+  <img width=288 src="https://github-readme-stats.vercel.app/api?username=DaniellaToth05&count_private=true&show_icons=true&theme=merko&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 ---
