@@ -10,10 +10,9 @@
 
 <div align="left">
  
- I am passionate about technology and problem-solving, and I'm excited to develop my skills in software engineering.
+I love diving into hands-on projects and exploring how technology can solve real-world problems. I’m always building my skills in software development and looking for opportunities to learn through internships, co-ops, and collaborative projects. I’m eager to learn new technologies and constantly grow as a developer, always looking for ways to improve and expand my expertise.
 
- I am eager to gain practical experience through internships/co-op opportunities and collaborative projects, with the goal of 
- contributing to innovative software solutions that improve lives and drive technological advancement!
+My goal is to contribute to software solutions that make a real impact, whether it’s helping people, pushing innovation forward, or creating something exciting.
  
 </div>
 
