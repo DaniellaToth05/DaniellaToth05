@@ -25,7 +25,7 @@ My goal is to contribute to software solutions that make a real impact, whether 
 </div>
 
 ---
-
+<!--
 ## 🏆 **GitHub Stats**
 
 <div align="left">
@@ -34,7 +34,7 @@ My goal is to contribute to software solutions that make a real impact, whether 
   <img width=288 src="https://github-readme-stats.vercel.app/api?username=DaniellaToth05&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
----
+--->
 
 <h3 align="left">
   Thank you for visiting!
