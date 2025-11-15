@@ -21,7 +21,7 @@ My goal is to contribute to software solutions that make a real impact, whether 
 ## ⚒️ **Languages & Tools**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,react,git,github,vscode,slack,trello"/>
+  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,react,svelte,git,github,vscode,slack,trello"/>
 </div>
 
 ---
