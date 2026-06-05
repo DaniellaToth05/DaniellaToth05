@@ -4,27 +4,31 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hey%2C+I'm+Daniella!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="left">Third year Software Engineering student at the University of Guelph! 💻🌱</h3>
+<h3 align="left">Software Engineering Student @ UofG | Seeking Summer 2026 Co-op 💻🌱</h3>
 
 <br/>
 
 <div align="left">
  
-I love diving into hands-on projects and exploring how technology can solve real-world problems. I’m always building my skills in software development and looking for opportunities to learn through internships, co-ops, and collaborative projects. I’m eager to learn new technologies and constantly grow as a developer, always looking for ways to improve and expand my expertise.
-
-My goal is to contribute to software solutions that make a real impact, whether it’s helping people, pushing innovation forward, or creating something exciting.
+4th year Honours Software Engineering @ UofG | AI emphasis | Former Co-op @ DBM Systems | Dean's Honours List | Undergraduate TA
  
 </div>
 
 ---
+## Featured Projects
+- **[TuneTwin](https://tune-twin-2-0.vercel.app/)** — Music recommendation app · React · Django · Spotify API
+- **[ePortfolio](https://eportfolio-2.netlify.app/)** — Investment management web app · Spring Boot · Java
+- **[ElementLab](https://github.com/DaniellaToth05/ElementLab)** — Weather analysis & ML predictions · Vue.js · FastAPI · PostgreSQL
 
-## ⚒️ **Languages & Tools**
+---
 
+## Languages & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,react,svelte,git,github,vscode,slack,trello"/>
+  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript,html,css,react,svelte,flutter,spring,fastapi,firebase,postgres,git,github,vscode"/>
 </div>
 
 ---
+
 <!--
 ## 🏆 **GitHub Stats**
 
