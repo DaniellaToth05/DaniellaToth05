@@ -1,27 +1,27 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DaniellaToth05.DaniellaToth05" />
 
 <h1 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hey%2C+I'm+Daniella!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=hey%2C+i'm+daniella!" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">Software Engineering Student @ UofG  |  AI emphasis  |  Former Co-op @ DBM Systems</h3>
+<h3 align="center">software engineering student @ UofG  |  AI emphasis  |  former co-op @ DBM Systems</h3>
 
 <div align="center">
 
-<h3>I'm Currently Listening To</h3>
+<h3>i'm currently listening to</h3>
   <img width="200" height="200" alt="dakota" src="https://github.com/user-attachments/assets/2367256d-8e72-4a12-a62d-622dafb6fcaf" />
   <br/>
-  <a href="https://www.youtube.com/watch?v=hV2nAVjV8Fc"><strong>Dakota</strong></a>
+  <a href="https://www.youtube.com/watch?v=hV2nAVjV8Fc"><strong>dakota</strong></a>
   <br/>
-  Stereophonics
+  stereophonics
 </div>
 
 
-## Featured Projects
+### featured projects
 - <a href="https://tune-twin-2-0.vercel.app/" style="color: white; text-decoration: none;"><strong>🎵 TuneTwin</strong></a> - Music recommendation app · React · Django · Spotify API
 - <a href="https://eportfolio-2.netlify.app/" style="color: white; text-decoration: none;"><strong>💰 ePortfolio</strong></a> - Investment management web app · Spring Boot · Java
 - <a href="https://github.com/DaniellaToth05/ElementLab" style="color: white; text-decoration: none;"><strong>🌦️ ElementLab</strong></a> - Weather analysis & ML predictions · Vue.js · FastAPI · PostgreSQL
 
-## Languages & Tools
+### languages & tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript,html,css,react,svelte,flutter,spring,fastapi,firebase,postgres,git"/>
 </div>
@@ -37,5 +37,5 @@
 
 
 <h3 align="left">
-  Thank you for visiting!
+  thank you for visiting!
 </h3>
