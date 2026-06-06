@@ -1,44 +1,40 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DaniellaToth05.DaniellaToth05" />
 
 <h1 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hey%2C+I'm+Daniella!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hey%2C+I'm+Daniella!" alt="Typing SVG" /></a>
 </h1>
+<h3 align="center">Software Engineering Student @ UofG  |  AI emphasis  |  Former Co-op @ DBM Systems</h3>
 
-<h3 align="left">Software Engineering Student @ UofG | Seeking Summer 2026 Co-op 💻🌱</h3>
+<div align="center">
 
-<br/>
-
-<div align="left">
- 
-4th year Honours Software Engineering @ UofG | AI emphasis | Former Co-op @ DBM Systems | Dean's Honours List | Undergraduate TA
- 
+<h3>I'm Currently Listening To</h3>
+  <img width="200" height="200" alt="dakota" src="https://github.com/user-attachments/assets/2367256d-8e72-4a12-a62d-622dafb6fcaf" />
+  <br/>
+  <a href="https://www.youtube.com/watch?v=hV2nAVjV8Fc"><strong>Dakota</strong></a>
+  <br/>
+  Stereophonics
 </div>
 
----
-## Featured Projects
-- **[TuneTwin](https://tune-twin-2-0.vercel.app/)** — Music recommendation app · React · Django · Spotify API
-- **[ePortfolio](https://eportfolio-2.netlify.app/)** — Investment management web app · Spring Boot · Java
-- **[ElementLab](https://github.com/DaniellaToth05/ElementLab)** — Weather analysis & ML predictions · Vue.js · FastAPI · PostgreSQL
 
----
+## Featured Projects
+- <a href="https://tune-twin-2-0.vercel.app/" style="color: white; text-decoration: none;"><strong>🎵 TuneTwin</strong></a> - Music recommendation app · React · Django · Spotify API
+- <a href="https://eportfolio-2.netlify.app/" style="color: white; text-decoration: none;"><strong>💰 ePortfolio</strong></a> - Investment management web app · Spring Boot · Java
+- <a href="https://github.com/DaniellaToth05/ElementLab" style="color: white; text-decoration: none;"><strong>🌦️ ElementLab</strong></a> - Weather analysis & ML predictions · Vue.js · FastAPI · PostgreSQL
 
 ## Languages & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript,html,css,react,svelte,flutter,spring,fastapi,firebase,postgres,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript,html,css,react,svelte,flutter,spring,fastapi,firebase,postgres,git"/>
 </div>
 
----
-
-<!--
-## 🏆 **GitHub Stats**
 
 <div align="left">
-  <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=DaniellaToth05&count_private=true&theme=nord&border_radius=10" alt="streak stats"/>
-  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaToth05&langs_count=8&layout=compact&theme=nord&border_radius=10" alt="top langs" />
-  <img width=288 src="https://github-readme-stats.vercel.app/api?username=DaniellaToth05&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
 
---->
+### connect with me!
+<a href="https://linkedin.com/in/daniella-toth-x03"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" /></a>
+<a href="https://tothfolio.vercel.app"><img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20" /></a>
+<a href="mailto:daniellatoth@me.com"><img height="30" src="https://img.shields.io/badge/Email-147EFB?style=for-the-badge&logo=apple&logoColor=white&logoWidth=20" /></a>
+<a href="https://tothfolio.vercel.app/images/DaniellaToth_Resume.pdf"><img height="30" src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&logoWidth=20" /></a>
+
 
 <h3 align="left">
   Thank you for visiting!
