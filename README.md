@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<h3>i'm currently listening to</h3>
+<h3>current favourite song:</h3>
   <img width="170" height="170" alt="dakota" src="https://github.com/user-attachments/assets/2367256d-8e72-4a12-a62d-622dafb6fcaf" />
   <br/>
   <a href="https://www.youtube.com/watch?v=Z54A_Q0vAL0"><strong>Dakota</strong></a>
