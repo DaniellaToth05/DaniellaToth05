@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DaniellaToth05.DaniellaToth05" />
 
 <h1 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=hey%2C+i'm+daniella!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=hey%2C+i'm+daniella!" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">Software Engineering Student @ UofG  |  AI emphasis  |  former co-op @ DBM Systems</h3>
 
@@ -27,13 +27,12 @@
 </div>
 
 
-<div align="left">
-
-### connect with me!
+<!-- <div align="left">
+<h3>connect with me!</h3> 
 <a href="https://linkedin.com/in/daniella-toth-x03"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" /></a>
 <a href="https://tothfolio.vercel.app"><img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20" /></a>
 <a href="mailto:daniellatoth@me.com"><img height="30" src="https://img.shields.io/badge/Email-147EFB?style=for-the-badge&logo=apple&logoColor=white&logoWidth=20" /></a>
-<a href="https://tothfolio.vercel.app/images/DaniellaToth_Resume.pdf"><img height="30" src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&logoWidth=20" /></a>
+<a href="https://tothfolio.vercel.app/images/DaniellaToth_Resume.pdf"><img height="30" src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&logoWidth=20" /></a> -->
 
 
 <h3 align="left">
