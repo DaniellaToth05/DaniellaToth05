@@ -3,23 +3,23 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=hey%2C+i'm+daniella!" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">software engineering student @ UofG  |  AI emphasis  |  former co-op @ DBM Systems</h3>
+<h3 align="center">Software Engineering Student @ UofG  |  AI emphasis  |  former co-op @ DBM Systems</h3>
 
 <div align="center">
 
 <h3>i'm currently listening to</h3>
-  <img width="200" height="200" alt="dakota" src="https://github.com/user-attachments/assets/2367256d-8e72-4a12-a62d-622dafb6fcaf" />
+  <img width="170" height="170" alt="dakota" src="https://github.com/user-attachments/assets/2367256d-8e72-4a12-a62d-622dafb6fcaf" />
   <br/>
-  <a href="https://www.youtube.com/watch?v=hV2nAVjV8Fc"><strong>dakota</strong></a>
+  <a href="https://www.youtube.com/watch?v=hV2nAVjV8Fc"><strong>Dakota</strong></a>
   <br/>
-  stereophonics
+  Stereophonics
 </div>
 
 
 ### featured projects
-- <a href="https://tune-twin-2-0.vercel.app/" style="color: white; text-decoration: none;"><strong>🎵 TuneTwin</strong></a> - music recommendation app · react · django · spotify API
-- <a href="https://eportfolio-2.netlify.app/" style="color: white; text-decoration: none;"><strong>💰 ePortfolio</strong></a> - investment management web app · spring boot · java
-- <a href="https://github.com/DaniellaToth05/ElementLab" style="color: white; text-decoration: none;"><strong>🌦️ ElementLab</strong></a> - weather analysis & ML predictions · vue.js · fastAPI · postgreSQL
+- <a href="https://tune-twin-2-0.vercel.app/" style="color: white; text-decoration: none;"><strong>🎵 TuneTwin</strong></a> - Music recommendation app · React · Django · Spotify API
+- <a href="https://eportfolio-2.netlify.app/" style="color: white; text-decoration: none;"><strong>💰 ePortfolio</strong></a> - Investment management web app · Spring boot · Java
+- <a href="https://github.com/DaniellaToth05/ElementLab" style="color: white; text-decoration: none;"><strong>🌦️ ElementLab</strong></a> - Weather analysis & ML predictions · Vue.js · FastAPI · PostgreSQL
 
 ### languages & tools
 <div align="left">
