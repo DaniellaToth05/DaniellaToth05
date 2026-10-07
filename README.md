@@ -17,6 +17,7 @@
 
 
 ### featured projects
+- <a href="https://kerr-sim-website.vercel.app/" style="color: white; text-decoration: none;"><strong>🌌 Kerr Sim</strong></a> - Real-time black hole raytracer · Python · OpenGL · GLSL
 - <a href="https://tune-twin-2-0.vercel.app/" style="color: white; text-decoration: none;"><strong>🎵 TuneTwin</strong></a> - Music recommendation app · React · Django · Spotify API
 - <a href="https://eportfolio-2.netlify.app/" style="color: white; text-decoration: none;"><strong>💰 ePortfolio</strong></a> - Investment management web app · Spring boot · Java
 - <a href="https://github.com/DaniellaToth05/ElementLab" style="color: white; text-decoration: none;"><strong>🌦️ ElementLab</strong></a> - Weather analysis & ML predictions · Vue.js · FastAPI · PostgreSQL
