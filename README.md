@@ -1,41 +1,34 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DaniellaToth05.DaniellaToth05" />
-
-<h1 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=hey%2C+i'm+daniella!" alt="Typing SVG" /></a>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=400&size=24&pause=1400&color=ECE6DA&background=2B364000&vCenter=true&width=520&lines=hey%2C+i'm+daniella;software+engineering+%40+uofg;" alt="hey, i'm daniella" />
 </h1>
-<h3 align="center">Software Engineering Student @ UofG  |  AI emphasis  |  former co-op @ DBM Systems</h3>
 
-<div align="center">
+software engineering student at the university of guelph, ai area of emphasis.
 
-<h3>current favourite song:</h3>
-  <img width="130" height="130" alt="dakota" src="https://github.com/user-attachments/assets/2367256d-8e72-4a12-a62d-622dafb6fcaf" />
-  <br/>
-  <a href="https://www.youtube.com/watch?v=Z54A_Q0vAL0"><strong>Dakota</strong></a>
-  <br/>
-  Stereophonics
-</div>
+`now` full-stack developer, business solutions @ uofg<br/>
+`before` front-end co-op @ dbm systems
 
+<br/>
 
-### featured projects
-- <a href="https://kerr-sim-website.vercel.app/" style="color: white; text-decoration: none;"><strong>🌌 Kerr Sim</strong></a> - Real-time black hole raytracer · Python · OpenGL · GLSL
-- <a href="https://tune-twin-2-0.vercel.app/" style="color: white; text-decoration: none;"><strong>🎵 TuneTwin</strong></a> - Music recommendation app · React · Django · Spotify API
-- <a href="https://eportfolio-2.netlify.app/" style="color: white; text-decoration: none;"><strong>💰 ePortfolio</strong></a> - Investment management web app · Spring boot · Java
-- <a href="https://github.com/DaniellaToth05/ElementLab" style="color: white; text-decoration: none;"><strong>🌦️ ElementLab</strong></a> - Weather analysis & ML predictions · Vue.js · FastAPI · PostgreSQL
+**projects**
 
-### languages & tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript,html,css,react,svelte,flutter,spring,fastapi,firebase,postgres,git"/>
-</div>
+[kerr sim](https://kerr-sim-website.vercel.app/) · real-time black hole raytracer · <sub>`python` `opengl` `glsl`</sub><br/>
+[tunetwin](https://tune-twin-2-0.vercel.app/) · music recommendation app · <sub>`react` `django` `spotify api`</sub><br/>
+[eportfolio](https://eportfolio-2.netlify.app/) · investment management web app · <sub>`java` `spring boot`</sub><br/>
+[elementlab](https://github.com/DaniellaToth05/ElementLab) · weather analysis + ml predictions · <sub>`vue.js` `fastapi` `postgresql`</sub>
 
+<br/>
 
-<!-- <div align="left">
-<h3>connect with me!</h3> 
-<a href="https://linkedin.com/in/daniella-toth-x03"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" /></a>
-<a href="https://tothfolio.vercel.app"><img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20" /></a>
-<a href="mailto:daniellatoth@me.com"><img height="30" src="https://img.shields.io/badge/Email-147EFB?style=for-the-badge&logo=apple&logoColor=white&logoWidth=20" /></a>
-<a href="https://tothfolio.vercel.app/images/DaniellaToth_Resume.pdf"><img height="30" src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&logoWidth=20" /></a> -->
+**stack**<br/>
+typescript · javascript · python · java · c · react · svelte · flutter · spring boot · fastapi · firebase · postgresql · git
 
+<br/>
 
-<h3 align="left">
-  thank you for visiting!
-</h3>
+**on repeat**<br/>
+[dakota](https://www.youtube.com/watch?v=Z54A_Q0vAL0) · stereophonics
+
+<br/>
+
+<a href="https://tothfolio.vercel.app"><img src="https://img.shields.io/badge/portfolio-2B3640?style=flat-square&labelColor=2B3640&color=2B3640&logoColor=ECE6DA" alt="portfolio" /></a>
+<a href="https://linkedin.com/in/daniella-toth-x03"><img src="https://img.shields.io/badge/linkedin-2B3640?style=flat-square" alt="linkedin" /></a>
+<a href="mailto:daniellatoth@me.com"><img src="https://img.shields.io/badge/email-2B3640?style=flat-square" alt="email" /></a>
+<a href="https://tothfolio.vercel.app/images/DaniellaToth_Resume.pdf"><img src="https://img.shields.io/badge/resume-2B3640?style=flat-square" alt="resume" /></a>
